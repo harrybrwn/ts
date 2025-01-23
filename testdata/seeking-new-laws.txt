@@ -1,0 +1,341 @@
+What I want to talk to you about tonight is strictly speaking not on the character of physical laws. Because one might imagine at least that one's talking about nature, when one's talking about the character of physical laws. But I don't want to talk about nature, but rather how we stand relative to nature now. I want to tell you what we think we know and what there is to guess and how one goes about guessing it.
+
+Someone suggested that it would be ideal if, as I went along, I would slowly explain how to guess the laws and then create a new law for you right as I went along.
+
+I don't know whether I'll be able to do that. But first, I want to tell about what the present situation is, what it is that we know about the physics. You think that I've told you everything already, because in all the lectures, I told you all the great principles that are known.
+
+But the principles must be principles about something. The principles that I just spoke of, the conservation of energy– the energy of something– and quantum mechanical laws are quantum mechanical principles about something. And all these principles added together still doesn't tell us what the content is of the nature, that is, what we're talking about. So I will tell you a little bit about the stuff, on which all these principles are supposed to have been working.
+
+First of all is matter, and remarkably enough, all matter is the same. The matter of which the stars are made is known to be the same as the matter on the earth, by the character of the light that's emitted by those stars– they give a kind of fingerprint, by which you can tell that it's the same kind of atoms in the stars. As on the earth, the same kind of atoms appear to be in living creatures as in non-living creatures. Frogs are made out of the same goop– in different arrangement– than rocks.
+
+So that makes our problem simpler. We have nothing but atoms, all the same, everywhere. And the atoms all seem to be made from the same general constitution. They have a nucleus, and around the nucleus there are electrons.
+
+So I begin to list the parts of the world that we think we know about. One of them is electrons, which are the particles on the outside the atoms. Then there are the nuclei. But those are understood today as being themselves made up of two other things, which are called neutrons and protons. They're two particles.
+
+Incidentally, we have to see the stars and see the atoms and they emit light. And the light is described by particles, themselves, which are called photons. And at the beginning, we spoke about gravitation. And if the quantum theory is right, then the gravitation should have some kind of waves, which behave like particles too. And they call those gravitons. If you don't believe in that, just read gravity here, it's the same.
+
+Now finally, I did mention that in what's called beta decay, in which a neutron can disintegrate into a proton and an electron and a neutrino– or alien anti-neutrino– there's another particle, here, a neutrino. In addition to all the particles that I'm listing, there are of course all the anti-particles. But that's just a quick statement and takes care of doubling the number of particles immediately. But there's no complications.
+
+Now with the particles that I've listed here, all of the low energy phenomena, all of in fact ordinary phenomena that happen everywhere in the universe as far as we know, with the exception of here and there some very high energy particle does something, or in a laboratory we've been able to do some peculiar things. But if we leave out those special cases, all ordinary phenomena are presumably explained by the action and emotions of these kinds of things.
+
+For example, life itself is supposedly made, if understood– I mean understandable in principle– from the action of movements of atoms. And those atoms are made out of neutrons, protons, and electrons. I must immediately say that when we say, we understand it in principle, I only mean that we think we would, if we could figure everything out, find that there's nothing new in physics to be discovered, in order to understand the phenomena of light. Or, for instance, for the fact that the stars emit energy– solar energy or stellar energy– is presumably also understood in terms of nuclear reactions among these particles and so on.
+
+And all kinds of details of the way atoms behave are accurately described with this kind of model, at least as far as we know at present. In fact, I can say that in this range of phenomena today, as far as I know there are no phenomena that we are sure cannot be explained this way, or even that there's deep mystery about.
+
+This wasn't always possible. There was, for instance, for a while a phenomenon called super conductivity– there still is the phenomenon– which is that metals conduct electricity without resistance at low temperatures. And it was not at first obvious that this was a consequence of the known laws with these particles. But it turns out that it has been thought through carefully enough. And it's seen, in fact, to be a consequence of known laws.
+
+There are other phenomena, such as extrasensory perception, which cannot be explained by this known knowledge of physics here. And it is interesting, however, that that phenomena had not been well-established, and that we cannot guarantee that it's there. So if it could be demonstrated, of course that would prove that the physics is incomplete. And therefore, it's extremely interesting to physicists, whether it's right or wrong. And many, many experiments exist which show it doesn't work.
+
+The same goes for astrological influences. If it were true that the stars could affect the day that it was good to go to the dentist, then– because in America we have that kind of astrology– then it would be wrong. The physics theory would be wrong, because there's no mechanism understandable in principle from these things that would make it go. And that's the reason that there's some skepticism among scientists, with regard to those ideas.
+
+On the other hand, in the case of hypnotism, at first it looked like that also would be impossible, when it was described incompletely. But now that it's known better, it is realized that it is not absolutely impossible that hypnosis could occur through normal physiological but unknown processes. It doesn't require some special, new kind of course.
+
+Now, today although the knowledge or the theory of what goes on outside the nucleus of the atom seems precise and complete enough, in the sense that given enough time, we can calculate anything as accurately as it can be measured, it turns out that the forces between neutrons and protons, which constitute the nucleus, are not so completely known and are not understood at all well. And that's what I mean by– that is, that we cannot today, we do not today understand the forces between neutrons and protons to the extent that if you wanted me to, and give me enough time and computers, I could calculate exactly the energy levels of carbon or something like that. Because we don't know enough about that. Although we can do the corresponding thing for the energy levels of the outside electrons of the atom, we cannot for the nuclei. So the nuclear forces are still not understood very well.
+
+Now in order to find out more about that, experimenters have gone on. And they have to study phenomena at very high energy, where they hit neutrons and protons together at very high energy and produced peculiar things. And by studying those peculiar things, we hope to understand better the forces between neutrons and protons.
+
+Well, a Pandora's box has been opened by these experiments, although all we really wanted was to get a better idea of the forces between neutrons and protons. When we hit these things together hard, we discover that there are more particles in the world. And as a matter of fact, in this column there was plus over four dozen other particles have been dredged up in an attempt to understand these. And these four dozen other are put in this column, because they've very relevant to the neutron proton problem. They interact very much with neutrons and protons. And they've got something to do with the force between neutrons and protons. So we've got a little bit too much.
+
+In addition to that, while the dredge was digging up all this mud over here, it picked up a couple of pieces that are not wanted and are irrelevant to the problem of nuclear forces. And one of them is called a mu meson, or a muon. And the other was a neutrino, which goes with it.
+
+There are two kinds of neutrinos, one which goes with the electron, and one which goes with the mu meson. Incidentally, most amazingly, all the laws of the muon and its neutrino are now known. As far as we can tell experimentally, the law is they behave precisely the same as the electron and its neutrino, except that the mass of the mu meson is 207 times heavier than the electron.
+
+And that's the only difference known between those objects. But it's rather curious. But I can't say anymore, because nobody knows anymore.
+
+Now four dozen other particles is a frightening array– plus the anti-particles– is a frightening array of things. But it turns out, they have various names, mesons, pions, kaons, lambda, sigma– four dozen particles, there are going to be a lot of names.
+
+But it turns out that these particles come in families, so it helps us a little bit. Actually, some of these so-called particles last such a short time that there are debates whether it's in fact possible to define their very existence and whether it's a particle or not. But I won't enter into that debate.
+
+In order to illustrate the family idea, I take the two-part cases of a neutron and a proton. The neutron and proton have the same mass, within 0.10% or so. One is 1836, the other is 1839 times as heavy as an electron roughly, if I remember the numbers.
+
+But the thing that's very remarkable is this. That for the nuclear forces, which are the strong forces inside the nucleus, the force between a pair of protons– two protons– is the same as between a proton and a neutron and is the same again between a neutron and a neutron. In other words, for the strong nuclear forces, you can't tell a proton from a neutron.
+
+Or a symmetry law– neutrons may be substituted for protons, without changing anything, provided you're only talking about the strong forces. If you're talking about electrical forces, oh no. If you change a neutron for a proton, you have a terrible difference. Because the proton carries electrical charge, and a neutron doesn't. So by electric measurement, immediately you can see the difference between a proton and a neutron.
+
+So this symmetry, that you can replace neutrons by protons, is what we call an approximate symmetry. It's right for the strong interactions in nuclear forces. But it's not right in some deep sense of nature, because it doesn't work for the electricity. It's just called a partial symmetry. And we have to struggle with these partial symmetries.
+
+Now the families have been extended. It turns out that the substitution neutron proton can be extended to substitution over a wider range of particles. But the accuracy is still lower. You see, that neutrons can always be substituted for protons is only approximate. It's not true for electricity. And that the wider substitutions that have been discovered are legitimate is still more poor, a very poor symmetry, not very accurate. But they have helped to gather the particles into families, and thus to locate places where particles are missing and to help to discover the new ones.
+
+This kind of game, of roughly guessing at family relations and so on, is illustrative of a kind of preliminary sparring which one does with nature, before really discovering some deep and fundamental law. Before you get the deeper discoveries, examples are very important in the previous history of science. For instance, Mendeleev's discovery of the periodic table for the elements is analogous to this game. It is the first step, but the complete description of the reason for the periodic table came much later, with atomic theory.
+
+In the same way, organization of the knowledge of nuclear levels and characteristics was made by Maria Mayer and Jensen, in what they call the shell model of nuclei some years ago. And it's an analogous game, in which a reduction of a complexity is made by some approximate guesses. And that's the way it stands today.
+
+In addition to these things, then we have all these principles that we were talking about before. Principle of relativity, that the things must behave quantum mechanically. And combining that with the relativity that all conservation laws must be local. And so when we put all these principles together, we discover there are too many. They are inconsistent with each other.
+
+It seems as if, if we add quantum mechanics plus relativity plus the proposition that everything has to be local plus a number of tacit assumptions– which we can't really find out, because we are prejudiced, we don't see what they are, and it's hard to say what they are. Adding it all together we get inconsistency, because we really get infinity for various things when we calculate them. Well, if we get infinity, how will we ever agree that this agrees with nature?
+
+It turns out that it's possible to sweep the infinities under the rug by a certain crude skill. And temporarily, we're able to keep on calculating. But the fact of the matter is that all the principles that I told you up till now, if put together, plus some tacit assumptions that we don't know, it gives trouble. They cannot mutually consistent, nice problem.
+
+An example of the tacit assumptions that we don't know what the significance is, such propositions are the following. If you calculate the chance for every possibility– there is 50% probably this will happen, 25% that'll happen– it should add up to one. If you add all the alternatives, you should get 100% probability. That seems reasonable, but reasonable things are where the trouble always is.
+
+Another proposition is that the energy of something must always be positive, it can't be negative. Another proposition that is probably added in, in order before we get inconsistency, is what's called causality, which is something like the idea that effects cannot proceed their causes. Actually, no one has made a model, in which you disregard the proposition about the probability, or you disregard the causality, which is also consistent with quantum mechanics, relativity, locality, and so on. So we really do not know exactly what it is we're assuming that gives us the difficulty producing infinities.
+
+OK, now that's the present situation. Now I'm going to discuss how we would look for a new law. In general, we look for a new law by the following process. First, we guess it.
+
+Then, we compute– well, don't laugh, that's really true. Then we compute the consequences of the guess, to see what, if this is right, if this law that we guessed is right, we see what it would imply. And then we compare those computation results to nature. Or we say, compare to experiment or experience. Compare it directly with observation, to see if it works.
+
+If it disagrees with experiment, it's wrong. And that simple statement is the key to science. It doesn't make any difference how beautiful your guess is, it doesn't make any difference how smart you are, who made the guess, or what his name is. If it disagrees with experiment, it's wrong. That's all there is to it.
+
+It's true, however, that one has to check a little bit, to make sure that it's wrong. Because someone who did the experiment may have reported incorrectly. Or there may have been some feature in the experiment that wasn't noticed, like some kind of dirt and so on. You have to obviously check.
+
+Furthermore, the man who computed the consequences may have been the same one that made the guesses, may have made some mistake in the analysis. Those are obvious remarks. So when I say, if it disagrees with experiment, it's wrong, I mean after the experiment has been checked, the calculations have been checked, and the thing has been rubbed back and forth a few times to make sure that the consequences are logical consequences from the guess, and that, in fact, it disagrees with our very carefully checked experiment.
+
+This will give you somewhat the wrong impression of science. It means that we keep on guessing possibilities and comparing to experiments. And this is– to put an experiment on a little bit weak position. It turns out that the experimenters have a certain individual character. They like to do experiments, even if nobody's guessed yet.
+
+So it's very often true that experiments in a region in which people know the theorist doesn't know anything, nobody has guessed yet– for instance, we may have guessed all these laws, but we don't know whether they really work at very high energy because it's just a good guess that they work at high energy. So experimenters say, let's try higher energy. And therefore experiment produces trouble every once in a while. That is it produces a discovery that one of things that we thought of is wrong, so an experiment can produce unexpected results. And that starts us guessing again.
+
+For instance, an unexpected result is the mu meson and its neutrino, which was not guessed at by anybody, whatever, before it was discovered. And still nobody has any method of guessing, by which this is a natural thing.
+
+Now you see, of course, that with this method, we can disprove any definite theory. If you have a definite theory and a real guess, from which you can really compute consequences, which could be compared to experiment, then in principle, we can get rid of any theory. We can always prove any definite theory wrong.
+
+Notice, however, we never prove it right. Suppose that you invent a good guess, calculate the consequences, and discover that every consequence that you calculate agrees with experiment. Your theory is then right?
+
+No, it is simply not proved wrong. Because in the future, there could be a wider range of experiments, you can compute a wider range of consequences. And you may discover, then, that the thing is wrong.
+
+That's why laws like Newton's Laws for the Motion of Planets lasts such a long time. He guessed the law of gravitation, tackling all the kinds of consequences for the solar system and so on, compared them to experiment, and it took several years before the slight error of the motion of Mercury was developed. During all that time, the theory had been failed to be proved wrong and could be taken to be temporarily right.
+
+But it can never be proved right, because tomorrow's experiment may succeed in proving what you thought was right, wrong. So we never are right. We can only be sure we're wrong.
+
+However, it's rather remarkable that we can last so long, I mean to have some idea which will last so long.
+
+Incidentally, some people, one of the ways of stopping the science would be to only do experiments in the region where you know the laws. But the experimenters search most diligently and with the greatest effort in exactly those places where it seems most likely that we can prove their theories wrong. In other words, we're trying to prove ourselves wrong as quickly as possible. Because only in that way do we find workers progress.
+
+For example, today among ordinary low energy phenomena, we don't know where to look for trouble. We think everything's all right. And so there isn't any particular big program looking for trouble in nuclear reactions or in superconductivity.
+
+I must say, I'm concentrating on discovering fundamental laws. There's a whole range of physics, which is interesting and understanding at another level these phenomena like super conductivity in nuclear reactions. But I'm talking about discovering trouble, something wrong with the fundamental law. So nobody knows where to look there, therefore all the experiments today– in this field, of finding out a new law– are in high energy.
+
+I must also point out to you that you cannot prove a vague theory wrong. If the guess that you make is poorly expressed and rather vague, and the method that you used for figuring out the consequences is rather vague, you're not sure, and you just say I think everything is because it's all due to moogles, and moogles do this and that, more or less. So I can sort of explain how this works. Then you say that that theory is good, because it can't be proved wrong.
+
+If the process of computing the consequences is indefinite, then with a little skill, any experimental result can be made to look like an expected consequence. You're probably familiar with that in other fields. For example, a hates his mother. The reason is, of course, because she didn't caress him or love him enough when he was a child.
+
+Actually, if you investigate, you find out that as a matter of fact, she did love him very much. And everything was all right. Well, then, it's because she was overindulgent when he was young.
+
+So by having a vague theory, it's possible to get either result.
+
+Now wait, the cure for this one is the following. It would be possible to say if it were possible to state ahead of time how much love is not enough, and how much love is overindulgent exactly, then there would be a perfectly legitimate theory, against which you could make tests. It is usually said when this is pointed out, how much love and so on, oh, you're dealing with psychological matters, and things can't be defined so precisely. Yes, but then you can't claim to know anything about it.
+
+Now, we have examples, you'll be are horrified to hear, in physics of exactly the same kind. We have these approximate symmetries. It works something like this. You have approximate symmetry, you suppose it's perfect. Calculate the consequences, it's easy if you suppose it's perfect.
+
+You compare with experiment, of course it doesn't agree. The symmetry you're supposed to expect is approximate. So if the agreement is pretty good, you say, nice. If the agreement is very poor, you say, well this particular thing must be especially sensitive to the failure of the symmetry.
+
+Now you laugh, but we have to make progress in that way. In the beginning, when our subject is first new, and these particles are new to us, this jockeying around, this is a feeling way of guessing at the result. And this is the beginning of any science.
+
+And the same thing is true of psychology as it is of the symmetry propositions in physics. So don't laugh too hard, it's necessary in the very beginning to be very careful. It's easy to fall over the deep end by this kind of a vague theory. It's hard to prove it wrong. It takes a certain skill and experience to not walk off the plank on the game.
+
+In this process of guessing, computing consequences, and comparing to experiment, we can get stuck at various stages. For example, we may in the guess stage get stuck. We have no ideas, we can't guess an idea.
+
+Or we may get in the computing stage stuck. For example, Yukawa guessed an idea for the nuclear forces in 1934. Nobody could compute the consequences, because the mathematics was too difficult.
+
+So therefore, they couldn't compare it with experiments successfully. And the theory remained– for a long time, until we discovered all this junk. And this junk was not contemplated by Yukawa, and therefore, it's undoubtedly not as simple, as least, as the way Yukawa did it.
+
+Another place you can get stuck is at the experimental end. For example, the quantum theory of gravitation is going very slowly, if at all, because there's no use. All the experiments that you can do never involve quantum mechanics and gravitation at the same time, because the gravity force is so weak, compared to electrical forces.
+
+Now I want to concentrate from now on– because I'm a theoretical physicist, I'm more delighted with this end of the problem– as to how do you make the guesses. Now it's strictly, as I said before, not of any importance where the guess comes from. It's only important that it should agree with experiment and that it should be as definite as possible.
+
+But you say that is very simple. We've set up a machine, a great computing machine, which has a random wheel in it, that makes a succession of guesses. And each time it guesses a hypothesis about how nature should work, it computes immediately the consequences and makes a comparison to a list of experimental results it has at the other end.
+
+In other words, guessing is a dumb man's job. Actually, it's quite the opposite. And I will try to explain why.
+
+The first problem is how to start. You say, I'll start with all the known principles. But the principles that are all known are inconsistent with each other. So something has to be removed.
+
+So we get a lot of letters from people. We're always getting letters from people who are insisting that we ought to make holes in our guesses. You make a hole to make room for a new guess.
+
+Somebody says, do you know, you people always say space is continuous. But how do you know when you get to a small enough dimension that there really are enough points in between, it isn't just a lot of dots separated by little distances? Or they say, you know, those quantum mechanical amplitudes you just told me about, they're so complicated and absurd. What makes you think those are right? Maybe they aren't right.
+
+I get a lot of letters with such content. But I must say that such remarks are perfectly obvious and are perfectly clear to anybody who's working on this problem. And it doesn't do any good to point this out. The problem is not what might be wrong, but what might be substituted precisely in place of it.
+
+If you say anything precise, for example in the case of a continuous space, suppose the precise proposition is that space really consists of a series of dots only. And the space between them doesn't mean anything. And the dots are in a cubic array. Then we can prove that immediately is wrong, that doesn't work.
+
+You see, the problem is not to change or to say something might be wrong but to replace it by something. And that is not so easy. As soon as any real, definite idea is substituted, it becomes almost immediately apparent that it doesn't work.
+
+Secondly, there's an infinite number of possibilities of these the simple types. It's something like this. You're sitting, working very hard. You work for a long time, trying to open a safe.
+
+And some Joe comes along, who doesn't know anything about what you're doing or anything, except that you're trying to open a safe. He says, you know, why don't you try the combination 10-20-30? Because you're busy, you're trying a lot of things.
+
+Maybe you already tried 10-20-30. Maybe you know that the middle number is already 32 and not 20. Maybe you know that as a matter of fact this is a five digit combination.
+
+So these letters don't do any good. And so please don't send me any letters, trying to tell me how the thing is going to work. I read them to make sure that I haven't already thought of that. But it takes too long to answer them, because they're usually in the class try 10-20-30.
+
+And as usual, nature's imagination far surpasses our own. As we've seen from the other theories, they are really quite subtle and deep. And to get such a subtle and deep guess is not so easy. One must be really clever to guess. And it's not possible to do it blindly, by machine.
+
+So I wanted to discuss the art of guessing nature's laws. It's an art. How is it done?
+
+One way, you might think, well, look at history. How did the other guys do it? So we look at history.
+
+Let's first start out with Newton. He has in a situation where he had incomplete knowledge. And he was able to get the laws, by putting together ideas, which all were relatively close to experiment. There wasn't a great distance between the observations on the test. That's the first, but now it doesn't work so good.
+
+Now the next guy who did something– well, another man who did something great was Maxwell, who obtained the laws of electricity and magnetism. But what he did was this. He put together all the laws of electricity, due to Faraday and other people who came before him. And he looked at them, and he realized that they were mutually inconsistent. They were mathematically inconsistent.
+
+In order to straighten it out, he had to add one term to an equation. By the way, he did this by inventing a model for himself of idle wheels and gears and so on in space. And then he found that what the new law was.
+
+And nobody paid much attention, because they didn't believe in the idle wheels. We don't believe in the idle wheels today. But the equations that he obtained were correct.
+
+So the logic may be wrong, but the answer is all right. In the case of relativity, the discovery of relativity was completely different. There was an accumulation of paradoxes. The known laws gave inconsistent results. And it was a new kind of thinking, a thinking in terms of discussing the possible symmetries of laws.
+
+And it was especially difficult, because it was the first time realized how long something like Newton's laws could be right and still, ultimately, be wrong. And second, that ordinary ideas of time and space that seems so instinctive could be wrong.
+
+Quantum mechanics was discovered in two independent ways, which is a lesson. There, again, and even more so, an enormous number of paradoxes were discovered experimentally. Things that absolutely couldn't be explained in any way by what was known. Not that the knowledge was incomplete, but the knowledge was too complete. Your prediction was this should happen, it didn't.
+
+The two different roots were one by Schrodinger, who guessed the equations. Another by Heisenberg, who argued that you must analyze what's measurable. So it's two different philosophical methods reduced to the same discovery in the end.
+
+More recently, the discovery of the laws of this interaction, which are still only partly known, had quite a somewhat different situation. Again, there was a– this time, it was a case of incomplete knowledge. And only the equation was guessed. The special difficulty this time was that the experiments were all wrong.
+
+All the experiments were wrong. How can you guess the right answer? When you calculate the results it disagrees with the experiment, and you have the courage to say, the experiments must be wrong. I'll explain where the courage comes from in a minute.
+
+Today, we haven't any paradoxes, maybe. We have this infinity that comes if we put all the laws together. But the rug-sweeping people are so clever that one sometimes thinks that's not a serious paradox.
+
+The fact that there are all these particles doesn't tell us anything, except that our knowledge is incomplete. I'm sure that history does not repeat itself in physics, as you see from this list. And the reason is this.
+
+Any scheme– like think of symmetry laws, or put the equations in mathematical form, or any of these schemes, guess equations, and so on– are known to everybody now. And they're tried all the time. So if the place where you get stuck is not that, you try that right away. We try looking for symmetries, we try all the things that have been tried before. But we're stuck.
+
+So it must be another way next time. So each time that we get in this log jam of too many problems, it's because the methods that we're using are just like the ones we used before. We try all that right away. But the new scheme, the new discovery is going to be made in a completely different way. So history doesn't help us very much.
+
+I'd like to talk a little bit about this Heisenberg's idea. But you shouldn't talk about what you can't measure, because a lot of people talk about that without understanding it very well. They say in physics you shouldn't talk about what you can't measure.
+
+If what you mean by this, if you interpret this in this sense, that the constructs are inventions that you make that you talk about, it must be such a kind that the consequences that you compute must be comparable to experiment. That is, that you don't compute a consequence like a moo must be three goos. When nobody knows what a moo and a goo is, that's no good.
+
+If the consequences can be compared to experiment, then that's all that's necessary. It is not necessary that moos and goos can't appear in the guess. That's perfectly all right. You can have as much junk in the guess as you want, provided that you can compare it to experiment.
+
+That's not fully appreciated, because it's usually said, for example, people usually complain of the unwarranted extension of the ideas of particles and paths and so forth, into the atomic realm. Not so at all. There's nothing unwarranted about the extension.
+
+We must, and we should, and we always do extend as far as we can beyond what we already know, those things, those ideas that we've already obtained. We extend the ideas beyond their range. Dangerous, yes, uncertain, yes. But the only way to make progress.
+
+It's necessary to make science useful, although it's uncertain. It's only useful if it makes predictions. It's only useful if it tells you about some experiment that hasn't been done. It's no good if it just tells you what just went on. So it's necessary to extend the ideas beyond where they've been tested.
+
+For example, in the law of gravitation, which was developed to understand the motion of the planets, if Newton simply said, I now understand the planet, and didn't try to compare it to the earth's pull, we can't, if we're not allowed to say, maybe what holds the galaxies together is gravitation. We must try that. It's no good to say, well, when you get to the size of galaxies, since you don't know anything about anything, it could happen.
+
+Yes, I know. But there's no science here, there's no understanding, ultimately, of the galaxies. If on the other hand you assume that the entire behavior is due to only known laws, this assumption is very limited and very definite and easily broken by experiment. All we're looking for is just such hypotheses. Very definite, easy to compare to experiment.
+
+And the fact is that the way the galaxies behaved so far doesn't seem to be against the proposition. It would be easily disproved, if it were false. But it's very useful to make hypotheses.
+
+I give another example, even more interesting and important. Probably the most powerful assumption in all of biology, the single assumption that makes the progress of biology the greatest is the assumption that everything the animals do, the atoms can do. That the things that are seen in the biological world are the results of the behavior of physical and chemical phenomena, with no extra something.
+
+You could always say, when we come to living things, anything can happen. If you do that, you never understand the living thing. It's very hard to believe that the wiggling of the temple of the octopus is nothing but some fooling around of atoms, according to the known physical laws.
+
+But if investigated with this hypothesis, one is able to make guesses quite accurately as to how it works. And one makes great progress in understanding the thing. So far, the tentacle hasn't been cut off. What I mean is it hasn't been found that this idea is wrong.
+
+It's therefore not unscientific to take a guess, although many people who are not in science think it is. For instance, I had a conversation about flying saucers some years ago with laymen.
+
+Because I'm scientific, I know all about flying saucers. So I said, I don't think there are flying saucers. So my antagonist said, is it impossible that there are flying saucers? Can you prove that it's impossible? I said, no, I can't prove it's impossible, it's just very unlikely.
+
+That, they say, you are very unscientific. If you can't prove it impossible, then how could you say it's likely that it's unlikely? Well, that's the way that it is scientific. It is scientific only to say what's more likely and less likely, and not to be proving all the time, possible and impossible.
+
+To define what I mean, I finally said to him, listen. I mean that from my knowledge of the world that I see around me, I think that it is much more likely that the reports of flying saucers are the results of the known irrational characteristics of terrestrial intelligence, rather than the unknown, rational efforts of extraterrestrial intelligence.
+
+It's just more likely, that's all. And it's a good guess. And we always try to guess the most likely explanation, keeping in the back of the mind the fact that if it doesn't work, then we must discuss the other possibilities.
+
+Now, how to guess at what to keep and what to throw away. You see, we have all these nice principles and known facts and so on. But we're in some kind of trouble– that we get the inifinities or we don't get enough of a description, we're missing some parts. And sometimes that means that we have, probably, to throw away some idea. At least in the past it's always turned out that some deeply held idea has to be thrown away.
+
+And the question is what to throw away and what to keep. If you throw it all away, it's going a little far, and you don't got much to work with. After all, the conservation of energy looks good, it's nice. I don't want to throw it away, and so on.
+
+To guess what to keep and what to throw away takes considerable skill. Actually, it probably is merely a matter of luck. But it looks like it takes considerable skill.
+
+For instance, probability amplitudes, they're very strange. And the first thing you'd think is that the strange new ideas are clearly cockeyed. And yet everything that can be deduced from the idea of probability– the existence of quantum mechanical probability amplitude, strange though they are, all the things that depend on that work throughout all these strange particles, work 100%. Everything that depends on that seems to work.
+
+So I don't believe that that idea is wrong, and that when we find out what the inner guts of this stuff is we'll find that idea is wrong. I think that part's right. I'm only guessing. I'm telling you how I guess.
+
+For instance, that space is continuous is, I believe, wrong. Because we get these infinities in other difficulties, and we have some questions as to what determines the sizes of all these particles, I rather suspect that the simple ideas of geometry extended down into infinitely small space is wrong. I don't believe that space– I mean, I'm making a hole. I'm only making a guess, I'm not telling you what to substitute. If I did, I would finish this lecture with a known law.
+
+Some people have used the inconsistency of all the principles to say that there's only one possible consistent world. That if we put all the principles together and calculate it very exactly, we will not only be able to reuse the principle, but discover that these are the only things that can exist and have the [INAUDIBLE]. And that seems to me like a big order.
+
+I don't believe– that's not like wagging the tail by the dog. That's right. Wagging the dog by the tail.
+
+I believe that you have to be given that certain things exist, a few of them– not all the 48 particles or the 50 some odd particles. A few little principles, a few little things exist, like electrons, and something, something is given. And then with all the principles, the great complexities that come out could probably be a definite consequence. But I don't think you can get the whole thing from just arguments about consistency.
+
+Finally, we have another problem, which is the question of the meaning of the partial symmetries. I think I better leave that one go, because of a shortage of time. Well, I'll say it quickly. These symmetries– like the neutron and proton are nearly the same, but they're not, for electricity, or that the law of reflection symmetry is perfect, except for one kind of a reaction– are very annoying. The thing is almost symmetrical, but not.
+
+Now, two schools of thought exist. One who say it's really simple, they're really symmetrical. But there's a little complication, which knocks it a little bit cockeyed.
+
+Then there's another school, which has only one representative, myself.
+
+Which says, no, the thing may be complicated and become simple only through the complication. Like this. The Greeks believed that the orbits of the planets were circles. And the orbits of the planets are nearly circles. Actually, they're ellipses.
+
+The next question is, well, they're not quite symmetrical. But they're almost circles, they're very close to circles. Why are they very close to circles? Why are they nearly symmetrical? Because of the long complicated effects of tidal friction, a very complicated idea.
+
+So it is possible that nature, in her heart, is completely as unsymmetrical for these things. But in the complexities of reality, it gets approximately looking as if it's symmetrical. Ellipses look almost like circles, it's another possibly. Nobody knows, it's just guess work.
+
+Now another thing that people often say is that for guessing, two identical theories– two theories. Suppose you have two theories, a and b, which look completely different psychologically. They have different ideas in them and so on. But that all the consequences that are computed, all the consequences that are computed are exactly the same. You may even say they even agree with experiment.
+
+The point is thought that the two theories, although they sound different at the beginning, have all consequences the same. It's easy, usually, to prove that mathematically, by doing a little mathematics ahead of time, to show that the logic from this one and this one will always give corresponding consequences.
+
+Suppose we have two such theories. How are we going to decide which one is right? No way, not by science. Because they both agree with experiment to the same extent, there's no way to distinguish one from the other.
+
+So two theories, although they may have deeply different ideas behind them, may be mathematically identical. And usually people say, then, in science one doesn't know how to distinguish them. And that's right.
+
+However, for psychological reasons, in order to guess new theories, these two things are very far from equivalent. Because one gives a man different ideas than the other. By putting the theory in a certain kind of framework, you get an idea of what to change, which would be something, for instance, in theory A that talks about something. But you say I'll change that idea in here.
+
+But to find out what the corresponding thing you're going to change in here may be very complicated. It may not be a simple idea. In other words, a simple change here, may be a very different theory than a simple change there.
+
+In other words, although they are identical before they are changed, there are certain ways of changing one which look natural, which don't look natural in the other. Therefore, psychologically, we must keep all the theories in our head.
+
+And every theoretical physicist that's any good knows six or seven different theoretical representations for exactly the same physics, and knows that they're all equivalent, and that nobody's ever going to be able to decide which one is right at that level. But he keeps them in his head, hoping that they'll give him different ideas for guessing.
+
+Incidentally, that reminds me of another thing. And that is that the philosophy, or the ideas around the theory– a lot of ideas, you say, I believe there is a space time, or something like that, in order to discuss your analyses– that these ideas change enormously when there are very tiny changes in the theory.
+
+In other words, for instance, Newton's idea about space and time agreed with experiment very well. But in order to get the correct motion of the orbit of Mercury, which was a tiny, tiny difference, the difference in the character of the theory with which you started was enormous. The reason is these are so simple and so perfect. They produce definite results.
+
+In order to get something that produced a little different result, it has to be completely different. You can't make imperfections on a perfect thing. You have to have another perfect thing.
+
+So the philosophical ideas between Newton's theory of gravitation and Einstein's theory of gravitation are enormous. Their difference is rather enormous. What are these philosophies? These philosophies are really tricky ways to compute consequences quickly. A philosophy, which is sometimes called an understanding of the law, is simply a way that a person holds the laws in his mind, so as to guess quickly at consequences.
+
+Some people have said, and it's true, for instance, in the case of Maxwell's equations and other equations, never mind the philosophy, never mind anything of this kind. Just guess the equations.
+
+The problem is only to compute the answers so they agree with experiment, and is not necessarily to have a philosophy or words about the equation. That's true, in a sense, yes and no. It's good in the sense you may be, if you only guess the equation, you're not prejudicing yourself, and you'll guess better. On the other hand, maybe the philosophy helped you to guess. It's very hard to say.
+
+For those people who insist, however, that the only thing that's important is that the theory agrees with experiment, I would like to make an imaginary discussion between a Mayan astronomer and his student. The Mayans were able to calculate with great precision the predictions, for example, for eclipses and the position of the moon in the sky, the position of Venus, and so on.
+
+However, it was all done by arithmetic. You count certain numbers, you subtract some numbers, and so on. There was no discussion of what the moon was. There wasn't even a discussion of the idea that it went around. It was only calculate the time when there would be an eclipse, or the time when it would rise– their full moon– and when it would rise, half moon, and so on, just calculating, only.
+
+Suppose that a young man went to the astronomer and said, I have an idea. Maybe those things are going around, and there are balls of rocks out there. We could calculate how they move in a completely different way than just calculate what time they appear in the sky and so on.
+
+So of course the Mayan astronomer would say, yes, how accurate can you predict eclipses? He said, I haven't developed the thing very far.
+
+But we can calculate eclipses more accurately than you can with your model. And so you must not pay attention to this, because the mathematical scheme is better. And it's a very strong tendency of people to say against some idea, if someone comes up with an idea, and says let's suppose the world is this way.
+
+And you say to him, well, what would you get for the answer for such and such a problem? And he says, I haven't developed it far enough. And you say, well, we have already developed it much further. We can get the answers very accurately. So it is a problem, as to whether or not to worry about philosophies behind ideas.
+
+Another thing, of course, I wanted you to guess is to guess new principles. For instance, in Einstein's gravitation, he guessed, on top of all the other principles, the principle that correspondent to the idea that the forces are always proportional to the masses. He guessed the principle that if you are in an accelerating car, you couldn't tell that from being in a gravitational field. And by adding that principle to all the other principles was able to deduce correct laws of gravitation.
+
+Well, that outlines a number of possible ways of guessing. I would now like to come to some other points about the final result. First of all, when we're all finished, and we have a mathematical theory by which we can compute consequences, it really is an amazing thing. What do we do?
+
+In order to figure out what an atom is going to do in a given situation, we make up a whole lot of rules with marks on paper, carry them into a machine, which opens and closes switches in some complicated way. And the result will tell us what the atom is going to do.
+
+Now if the way that these switches open and close, with some kind of a model of the atom– in other words, if we thought the atom had such switches in it– then I would say, I understand more or less what's going on. But I find it quite amazing that it is possible to predict what will happen by what we call mathematics. We're just simply following a whole lot of rules, which have nothing to do, really, with what's going on in the original thing. In other words, the closing and opening of switches in a computer is quite different, I think, than what's happening in nature. And that is, to me, very surprising.
+
+Now finally, I would like to say one of the most important things in his guess compute consequences compare experiment business is to know when you're right, that it's possible to know when you're right way ahead of computing all a consequences– I mean of checking all the consequences. You can recognize truth by beauty and simplicity. It's always easy when you've got the right guess and make two or three little calculations to make sure it isn't obviously wrong to know that it's right. When you get it right, it's obvious that it's right. At least if you have any experience.
+
+Because most of what happens is that more comes out than goes in, that your guess is, in fact, that something is very simple. And at the moment you guess that it's simpler than you thought, then it turns out that it's right, if it can't be immediately disproved. Doesn't sound silly. I mean, if you can't see immediately that it's wrong, and it's simpler than it was before, then it's right.
+
+The inexperienced and crackpots and people like that will make guesses that are simple, all right, but you can immediately see that they're wrong. That doesn't count. And others, the inexperienced students, make guesses that are very complicated. And it sort of looks like it's all right. But I know that's not true, because the truth always turns out to be simpler than you thought.
+
+What we need is imagination. But imagination is a terrible straitjacket. We have to find a new view of the world that has to agree with everything that's known, but disagree in its predictions, some way. Otherwise it's not interesting. And in that disagreement, agree with nature.
+
+If you can find any other view of the world which agrees over the entire range where things have already been observed, but disagrees somewhere else, you've made a great discovery. Even if it doesn't agree with nature. It's darn hard, it's almost impossible, but not quite impossible, to find another theory, which agrees with experiments over the entire range in which the old theories have been checked and yet gives different consequences in some other range. In other words, a new idea that is extremely difficult, takes a fantastic imagination.
+
+And what of the future of this adventure? What will happen ultimately? We are going along, guessing the laws. How many laws are we going to have to guess?
+
+I don't know. Some of my– let's say, some of my colleagues say, science will go on. But certainly, there will not be perpetual novelty, say for 1,000 years. This thing can't keep on going on, we're always going to discover new laws, new laws, new laws. If we do, it will get boring that there are so many levels, one underneath the other.
+
+So the only way that it seems to me that it can happen– that what can happen in the future first– either that everything becomes known, that all the laws become known. That would mean that after you had enough laws, you could compute consequences. And they would always agree with experiment, which would be the end of the line.
+
+Or it might happen that the experiments get harder and harder to make, more and more expensive, that you get 99.9% of the phenomena. But there's always some phenomenon which has just been discovered that's very hard to measure, which disagrees and gets harder and harder to measure. As you discover the explanation of that one, there's always another one. And it gets slower and slower and more and more uninteresting. That's another way that it could end.
+
+But I think it has to end in one way or another. And I think that we are very lucky to live in the age in which we're still making the discoveries. It's an age which will never come again. It's like the discoveries of America. You only discover it once. It was an exciting day, when there was investigations of America.
+
+But the age that we live in is the age in which we are discovering the fundamental laws of nature. And that day will never come again. I don't mean we're finished. I mean, we're right in the process of making such discoveries. It's very exciting and marvelous, but this excitement will have to go.
+
+Of course, in the future there will be other interests. There will be interests on the connection of one level of phenomena to another, phenomena in biology and so on, all kinds of things. Or if you're talking about explorations, exploring planets and other things. But there will not still be the same thing as we're doing now. It will be just different interests.
+
+Another thing that will happen is that if all is known– ultimately, if it turns out all is known, it gets very dull– the biggest philosophy and the careful attention to all these things that I've been talking about will have gradually disappeared. The philosophers, who are always on the outside, making stupid remarks, will be able to close in. Because we can't push them away by saying, well, if you were right, you'd be able to guess all the rest of the laws. Because when they're all there, they'll have an explanation for it.
+
+For instance, there are always explanations as to why the world is three dimensional. Well, there's only one world. And it's hard to tell if that explanation is right or not. So if everything were known, there will be some explanation about why those are the right laws.
+
+But that explanation will be in a frame that we can't criticize by arguing that that type of reasoning will not permit us to go further. So there will be a degeneration of ideas, just like the degeneration that great explorers feel occurs when tourists begin moving in on their territory.
+
+I must say that in this age, people are experiencing a delight, a tremendous delight. The delight that you get when you guess how nature will work in a new situation, never seen before. From experiments and information in a certain range, you can guess what's going to happen in the region where no one has ever explored before.
+
+It's a little different than regular exploration. That is, there's enough clues on the land discovered to guess what the land is going to look like that hasn't been discovered. And these guesses, incidentally, are often very different than what you've already seen. It takes a lot of thought.
+
+What is it about nature that lets this happen, that it's possible to guess from one part what the rest is going to do? That's an unscientific question, what is it about nature. I don't know how to answer.
+
+And I'm going to give therefore an unscientific answer. I think it is because nature has a simplicity and therefore a great beauty. Thank you very much.
